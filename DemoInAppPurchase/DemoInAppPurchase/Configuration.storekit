@@ -1,0 +1,33 @@
+{
+  "identifier" : "1D347932",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "AE2DB4F5",
+      "localizations" : [
+        {
+          "description" : "Unlock App Purchase",
+          "displayName" : "unlock ",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.DemoInAppPurchase.unlock",
+      "referenceName" : "unlock",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 2
+  }
+}
